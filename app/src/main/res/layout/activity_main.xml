@@ -35,8 +35,9 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="textPersonName"
-            android:text="" />
+            android:inputType="numberSigned|numberDecimal"
+            android:text=""
+            android:textSize="24sp" />
     </LinearLayout>
 
     <LinearLayout
@@ -67,7 +68,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="textPersonName"
+            android:inputType="numberSigned|numberDecimal"
             android:textSize="24sp" />
 
     </LinearLayout>
@@ -100,7 +101,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="textPersonName"
+            android:inputType="numberSigned|numberDecimal"
             android:textSize="24sp" />
     </LinearLayout>
 
@@ -133,7 +134,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="textPersonName"
+            android:inputType="numberSigned|numberDecimal"
             android:textSize="24sp" />
     </LinearLayout>
 

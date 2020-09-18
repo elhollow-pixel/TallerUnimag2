@@ -6,7 +6,7 @@
         android:title="Aleatorio" />
     <item
         android:id="@+id/m1"
-        android:title="Distance" />
+        android:title="Distancia" />
 
 
 </menu>
