@@ -152,13 +152,13 @@
         app:layout_constraintTop_toBottomOf="@+id/linearLayout3">
 
 
+
         <Button
-            android:id="@+id/btncuadrante"
+            android:id="@+id/btnpuntomedio"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="@string/cuadrante" />
-
+            android:text="@string/puntomedio" />
         <Button
             android:id="@+id/btnpendiente"
             android:layout_width="match_parent"
@@ -166,12 +166,13 @@
             android:layout_marginTop="5dp"
             android:text="@string/pendiente" />
 
+
         <Button
-            android:id="@+id/btnpuntomedio"
+            android:id="@+id/btncuadrante"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
-            android:text="@string/puntomedio" />
+            android:text="@string/cuadrante" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
